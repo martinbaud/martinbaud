@@ -16,7 +16,7 @@
       <td>
         <table>
           <tr>
-            <td align="center" width="48" height="48" bgcolor="#8B5A2B">log</td>
+            <td align="center" width="48" height="48" bgcolor="#8B5A2B">🪵</td>
             <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
             <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
           </tr>
@@ -32,13 +32,13 @@
           </tr>
         </table>
       </td>
-      <td align="center" width="40">-></td>
+      <td align="center" width="40">→</td>
       <td align="center" width="48" height="48" bgcolor="#C4A060">
-        <b>x4</b><br>plk
+        <b>x4</b><br>🟫
       </td>
     </tr>
     <tr>
-      <td colspan="5" align="center"><code>Oak Log -> Oak Planks</code></td>
+      <td colspan="5" align="center"><code>Oak Log → Oak Planks</code></td>
     </tr>
   </table>
 </div>
@@ -55,32 +55,28 @@
 
 ### Pro — Open Core
 
-Building [**AeryFlux**](https://github.com/aeryflux) — an open core platform with interactive globe experiences.
+Building [**AeryFlux**](https://github.com/aeryflux)
 
-| Project | Description |
-|---------|-------------|
-| [**geojsonto3D**](https://github.com/martinbaud/geojsonto3D) | GeoJSON to 3D globe meshes |
-| [aeryflux/lumos](https://github.com/aeryflux/lumos) | Landing page with 3D globe |
-| [aeryflux/haki](https://github.com/aeryflux/haki) | Learn-to-code with visual compiler |
-| [aeryflux/xenova-bridge](https://github.com/aeryflux/xenova-bridge) | NLP package |
-
-<sub>TypeScript · React · Three.js · Hono</sub>
+| Project | Stack |
+|---------|-------|
+| [**geojsonto3D**](https://github.com/martinbaud/geojsonto3D) | Three.js |
+| [lumos](https://github.com/aeryflux/lumos) | React |
+| [haki](https://github.com/aeryflux/haki) | Vite |
+| [xenova-bridge](https://github.com/aeryflux/xenova-bridge) | NLP |
 
 </td>
 <td width="50%" valign="top">
 
 ### Hobby — Retro Gaming
 
-Reverse engineering & preserving classic games.
+Reverse engineering classics
 
-| Project | Game | Era |
-|---------|------|-----|
-| [**aof6_server**](https://github.com/martinbaud/aof6_server) | Minecraft (All of Fabric 6) | 2024 |
-| **UrbzMMO** | The Urbz: Sims in the City (GBA) | 2004 |
-| **SplinterCell** | Splinter Cell multiplayer | 2002 |
-| **Zeus** | Master of Olympus (Sierra) | 2000 |
-
-<sub>Emulation · Reverse Engineering · Modding</sub>
+| Project | Era |
+|---------|-----|
+| [**aof6_server**](https://github.com/martinbaud/aof6_server) | Minecraft |
+| **UrbzMMO** | GBA 2004 |
+| **SplinterCell** | Xbox 2002 |
+| **Zeus** | Sierra 2000 |
 
 </td>
 </tr>
