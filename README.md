@@ -44,11 +44,11 @@
 ## Philosophy
 
 ```
-Doc-First    README and types before code
-Test-First   Validate behavior, not implementation
-Iterative    Small commits, one change at a time
-Minimalist   Only what's needed, no over-engineering
-Open Core    OSS community, private product
+Doc-First      README and types before code
+Test-First     Validate behavior, not implementation
+Iterative      Small commits, one change at a time
+Minimalist     Only what's needed
+Upstream-First Contribute back, respect the source
 ```
 
 ---
@@ -74,15 +74,15 @@ Reverse engineering & preserving classic games.
 
 ### Active
 
-| Project | Studio | Game |
-|---------|--------|------|
-| [aof6_server](https://github.com/martinbaud/aof6_server) | Mojang | Minecraft |
-| [EnhancedSC](https://github.com/martinbaud/EnhancedSC) | Ubisoft | Splinter Cell Coop |
-| UrbzMMO | Cryptonite | The Urbz GBA |
+| Project | Upstream | Intent |
+|---------|----------|--------|
+| [aof6_server](https://github.com/martinbaud/aof6_server) | — | Minecraft modpack |
+| [EnhancedSC](https://github.com/martinbaud/EnhancedSC) | [Joshhhuaaa](https://github.com/Joshhhuaaa/EnhancedSC) | 2-player coop |
+| UrbzMMO | — | GBA engine |
 
 ### Research — Impressions Games
 
-The [City Building Series](https://en.wikipedia.org/wiki/City_Building_(series)) by Impressions Games (UK) → Sierra → BreakAway:
+The [City Building Series](https://en.wikipedia.org/wiki/City_Building_(series)) by Impressions Games → Sierra → BreakAway:
 
 | Game | Year | Setting |
 |------|------|---------|
@@ -97,10 +97,10 @@ The [City Building Series](https://en.wikipedia.org/wiki/City_Building_(series))
 
 ## Tools
 
-| Tool | Purpose |
-|------|---------|
-| [dynamic-readme](https://github.com/martinbaud/dynamic-readme) | Interactive GitHub profiles |
+| Fork | Upstream | Intent |
+|------|----------|--------|
+| [dynamic-readme](https://github.com/martinbaud/dynamic-readme) | [Charles-Chrismann](https://github.com/Charles-Chrismann/dynamic-readme) | Minecraft crafting |
 
 ---
 
-<p align="center"><sub>Minimalist · Iterative · Doc-first</sub></p>
+<p align="center"><sub>Minimalist · Iterative · Upstream-first</sub></p>
