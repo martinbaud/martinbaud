@@ -1,7 +1,7 @@
-<h1 align="center">⛏️ martinbaud</h1>
+<h1 align="center">martinbaud</h1>
 
 <p align="center">
-  <b>Crafting open source gaming experiences</b>
+  <b>Crafting software & reverse engineering retro games</b>
 </p>
 
 <br>
@@ -10,13 +10,13 @@
 <div align="center">
   <table>
     <tr>
-      <th colspan="5">🔨 CRAFTING</th>
+      <th colspan="5">CRAFTING</th>
     </tr>
     <tr>
       <td>
         <table>
           <tr>
-            <td align="center" width="48" height="48" bgcolor="#8B5A2B">🪵</td>
+            <td align="center" width="48" height="48" bgcolor="#8B5A2B">log</td>
             <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
             <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
           </tr>
@@ -32,49 +32,13 @@
           </tr>
         </table>
       </td>
-      <td align="center" width="40">→</td>
+      <td align="center" width="40">-></td>
       <td align="center" width="48" height="48" bgcolor="#C4A060">
-        <b>x4</b><br>🟫
+        <b>x4</b><br>plk
       </td>
     </tr>
     <tr>
-      <td colspan="5" align="center"><code>Oak Log → Oak Planks</code></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- RECIPE: Planks → Sticks -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-            <td align="center" width="48" height="48" bgcolor="#C4A060">🟫</td>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-          </tr>
-          <tr>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-            <td align="center" width="48" height="48" bgcolor="#C4A060">🟫</td>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-          </tr>
-          <tr>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-            <td align="center" width="48" height="48" bgcolor="#3d3d3d"></td>
-          </tr>
-        </table>
-      </td>
-      <td align="center" width="40">→</td>
-      <td align="center" width="48" height="48" bgcolor="#8B7355">
-        <b>x4</b><br>🥢
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" align="center"><code>Planks → Sticks</code></td>
+      <td colspan="5" align="center"><code>Oak Log -> Oak Planks</code></td>
     </tr>
   </table>
 </div>
@@ -83,18 +47,47 @@
 
 ---
 
-### 🎮 Projects
+## Alchemy
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**aof6_server**](https://github.com/martinbaud/aof6_server) | All of Fabric 6 Minecraft server | ✅ |
-| [**geojsonto3D**](https://github.com/martinbaud/geojsonto3D) | GeoJSON → 3D globe meshes | ✅ |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔮 Coming Soon
+### Pro — Open Core
 
-- **UrbzMMO** — Retro engine for The Urbz (GBA)
-- **Splinter Cell** — Reverse engineering multiplayer
+Building [**AeryFlux**](https://github.com/aeryflux) — an open core platform with interactive globe experiences.
+
+| Project | Description |
+|---------|-------------|
+| [**geojsonto3D**](https://github.com/martinbaud/geojsonto3D) | GeoJSON to 3D globe meshes |
+| [aeryflux/lumos](https://github.com/aeryflux/lumos) | Landing page with 3D globe |
+| [aeryflux/haki](https://github.com/aeryflux/haki) | Learn-to-code with visual compiler |
+| [aeryflux/xenova-bridge](https://github.com/aeryflux/xenova-bridge) | NLP package |
+
+<sub>TypeScript · React · Three.js · Hono</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Hobby — Retro Gaming
+
+Reverse engineering & preserving classic games.
+
+| Project | Game | Era |
+|---------|------|-----|
+| [**aof6_server**](https://github.com/martinbaud/aof6_server) | Minecraft (All of Fabric 6) | 2024 |
+| **UrbzMMO** | The Urbz: Sims in the City (GBA) | 2004 |
+| **SplinterCell** | Splinter Cell multiplayer | 2002 |
+| **Zeus** | Master of Olympus (Sierra) | 2000 |
+
+<sub>Emulation · Reverse Engineering · Modding</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><sub>Minimalist · Iterative · Doc-first</sub></p>
+<p align="center">
+  <sub>Minimalist · Iterative · Doc-first</sub>
+</p>
